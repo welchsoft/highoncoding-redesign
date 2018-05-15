@@ -1,0 +1,78 @@
+.useful {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  font-family: "Arial", Arial, Times;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  padding-left: 10px;
+}
+
+.top_blue {
+  background-color: #52a7f9;
+  color: white;
+  display: block;
+  font-size: 30
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+  padding: 10px;
+}
+
+h2 span {font-size: 15}
+
+.div-king{
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.grey_part {
+  background-color: #dddee0;
+  display: block;
+  padding-top: 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 1px;
+}
+
+.blue_title {
+  color: #52a7f9;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.line_item {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5px;
+}
+
+.comment_likes {
+  background-color: #f39019;
+  color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2px;
+}
+
+.grey_squares {
+  background-color: #dddee0;
+  margin: 10px;
+  padding: 10px;
+  float:left;
+  width: 200;
+  padding-bottom: 10%; /* = width for a 1:1 aspect ratio */
+  margin:2%;
+  overflow:hidden;
+}
