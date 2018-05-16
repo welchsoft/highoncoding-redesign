@@ -66,13 +66,17 @@ h2 span {font-size: 15}
   padding: 2px;
 }
 
+.grey_flex {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  justify-content: space-around;
+}
 .grey_squares {
-  background-color: #dddee0;
+  width: 30%;
+  height: 25%;
   margin: 10px;
-  padding: 10px;
-  float:left;
-  width: 200;
-  padding-bottom: 10%; /* = width for a 1:1 aspect ratio */
-  margin:2%;
-  overflow:hidden;
+  background-color: #dddee0;
 }
